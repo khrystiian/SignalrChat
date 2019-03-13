@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRChatApp", "SignalRChatApp\SignalRChatApp.csproj", "{FEA3AA0E-85EC-4CAA-905A-BEF17C8D75C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEA3AA0E-85EC-4CAA-905A-BEF17C8D75C5}.Debug|ARM.ActiveCfg = Debug|ARM
+		{FEA3AA0E-85EC-4CAA-905A-BEF17C8D75C5}.Debug|ARM.Build.0 = Debug|ARM
+		{FEA3AA0E-85EC-4CAA-905A-BEF17C8D75C5}.Debug|ARM.Deploy.0 = Debug|ARM
+		{FEA3AA0E-85EC-4CAA-905A-BEF17C8D75C5}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{FEA3AA0E-85EC-4CAA-905A-BEF17C8D75C5}.Debug|ARM64.Build.0 = Debug|ARM64
+		{FEA3AA0E-85EC-4CAA-905A-BEF17C8D75C5}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{FEA3AA0E-85EC-4CAA-905A-BEF17C8D75C5}.Debug|x64.ActiveCfg = Debug|x64
+		{FEA3AA0E-85EC-4CAA-905A-BEF17C8D75C5}.Debug|x64.Build.0 = Debug|x64
+		{FEA3AA0E-85EC-4CAA-905A-BEF17C8D75C5}.Debug|x64.Deploy.0 = Debug|x64
+		{FEA3AA0E-85EC-4CAA-905A-BEF17C8D75C5}.Debug|x86.ActiveCfg = Debug|x86
+		{FEA3AA0E-85EC-4CAA-905A-BEF17C8D75C5}.Debug|x86.Build.0 = Debug|x86
+		{FEA3AA0E-85EC-4CAA-905A-BEF17C8D75C5}.Debug|x86.Deploy.0 = Debug|x86
+		{FEA3AA0E-85EC-4CAA-905A-BEF17C8D75C5}.Release|ARM.ActiveCfg = Release|ARM
+		{FEA3AA0E-85EC-4CAA-905A-BEF17C8D75C5}.Release|ARM.Build.0 = Release|ARM
+		{FEA3AA0E-85EC-4CAA-905A-BEF17C8D75C5}.Release|ARM.Deploy.0 = Release|ARM
+		{FEA3AA0E-85EC-4CAA-905A-BEF17C8D75C5}.Release|ARM64.ActiveCfg = Release|ARM64
+		{FEA3AA0E-85EC-4CAA-905A-BEF17C8D75C5}.Release|ARM64.Build.0 = Release|ARM64
+		{FEA3AA0E-85EC-4CAA-905A-BEF17C8D75C5}.Release|ARM64.Deploy.0 = Release|ARM64
+		{FEA3AA0E-85EC-4CAA-905A-BEF17C8D75C5}.Release|x64.ActiveCfg = Release|x64
+		{FEA3AA0E-85EC-4CAA-905A-BEF17C8D75C5}.Release|x64.Build.0 = Release|x64
+		{FEA3AA0E-85EC-4CAA-905A-BEF17C8D75C5}.Release|x64.Deploy.0 = Release|x64
+		{FEA3AA0E-85EC-4CAA-905A-BEF17C8D75C5}.Release|x86.ActiveCfg = Release|x86
+		{FEA3AA0E-85EC-4CAA-905A-BEF17C8D75C5}.Release|x86.Build.0 = Release|x86
+		{FEA3AA0E-85EC-4CAA-905A-BEF17C8D75C5}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAA30BC1-3F8F-4F38-B455-A53A4C8B684D}
+	EndGlobalSection
+EndGlobal
